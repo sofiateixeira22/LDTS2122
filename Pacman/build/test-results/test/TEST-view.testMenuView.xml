@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="view.testMenuView" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-28T16:14:07" hostname="LPRM" time="0.005">
+  <properties/>
+  <testcase name="testDraw()" classname="view.testMenuView" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.testGameModel" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-28T16:14:06" hostname="LPRM" time="0.006">
+  <properties/>
+  <testcase name="testGetters()" classname="model.testGameModel" time="0.003"/>
+  <testcase name="testConstructor()" classname="model.testGameModel" time="0.002"/>
+  <system-out><![CDATA[Level 1
+Level 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
